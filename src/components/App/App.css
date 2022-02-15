@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(253, 241, 239);
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.navbar {
+    padding-bottom: 1rem;
+    border-bottom: "solid 1px",
+}

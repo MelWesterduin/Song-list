@@ -1,0 +1,14 @@
+input {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.select {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.add-button {
+    font-family: 'Roboto Condensed', sans-serif;
+    border: 1px solid black;
+    border-radius: 10%;
+    cursor: pointer;
+}

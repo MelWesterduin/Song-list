@@ -1,0 +1,15 @@
+.title {
+    font-weight: bold;
+}
+
+.delete {
+    margin-left: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    border: 1px solid black;
+    border-radius: 25%;
+    cursor: pointer;
+}
+
+li {
+    list-style-type: none;
+}
